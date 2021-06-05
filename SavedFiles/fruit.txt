@@ -1,0 +1,7 @@
+1. Apple 50
+2. Banana 45
+3. Mango 120
+4. Guava 38
+5. Coconut 20
+
+Total Amount: 273
